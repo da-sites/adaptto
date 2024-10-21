@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://agetoservice.sharepoint.com/sites/adaptto-website/Shared%20Documents
+  /:
+    url: https://content.da.live/da-sites/adaptto/
+    type: markup
