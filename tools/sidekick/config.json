@@ -2,19 +2,13 @@
   "project": "BACOM-BLOG",
   "plugins": [
     {
-      "id": "library",
+      "id": "lib",
       "title": "Library",
       "environments": [ "edit" ],
       "isPalette": true,
       "paletteRect": "top: auto; bottom: 20px; left: 20px; height: 398px; width: 360px;",
       "url": "https://milo.adobe.com/tools/library",
       "includePaths": [ "**.docx**" ]
-    },
-    {
-      "id": "da-tags",
-      "title": "Tag Browser",
-      "environments": ["da-edit"],
-      "url": "https://main--da-bacom-blog--adobecom.hlx.live/tools/tags.html"
     }
   ],
   "apps": [
