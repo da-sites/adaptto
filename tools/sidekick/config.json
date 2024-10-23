@@ -10,6 +10,7 @@
       "title": "Tag Browser",
       "environments": ["edit"],
       "daLibrary": true,
+      "icon": "https://main--adaptto--da-sites.aem.page/media/icons/media_14e5b0618e05c34207edd8186bfe670f7a122b9c2.png",
       "url": "https://main--adaptto--da-sites.hlx.live/tools/tags.html"
     }
   ]
