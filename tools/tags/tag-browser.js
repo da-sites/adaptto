@@ -60,6 +60,7 @@ class DaTagBrowser extends LitElement {
 
   handleTagInsert(e, title) {
     actions.sendText(`${this.caasPath}/${title}`);
+    actions.closeLibrary();
   }
 
   renderTagGroup(group, idx) {
