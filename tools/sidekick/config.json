@@ -1,3 +1,12 @@
 {
-  "project": "adaptTo()"
+  "project": "adaptTo()",
+  "plugins": [
+    {
+      "id": "da-tags",
+      "title": "Tag Browser",
+      "environments": ["da-edit"],
+      "daLibrary": true,
+      "url": "https://main--adaptto--da-sites.hlx.live/tools/tags.html"
+    }
+  ]
 }
